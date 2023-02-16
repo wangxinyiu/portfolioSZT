@@ -1,3 +1,5 @@
+/* eslint-disable react/jsx-no-comment-textnodes */
+/* eslint-disable jsx-a11y/anchor-is-valid */
 import React from "react";
 import imageOverlay from "../img/earth.jpg";
 
@@ -118,6 +120,7 @@ class Contact extends React.Component {
                       <div className="socials">
                         <ul>
                           <li>
+                            // eslint-disable-next-line jsx-a11y/anchor-is-valid, jsx-a11y/anchor-is-valid, jsx-a11y/anchor-is-valid, jsx-a11y/anchor-is-valid
                             <a
                               href=""
                               target="_blank"
