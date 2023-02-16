@@ -1,5 +1,4 @@
 import React from "react";
-// eslint-disable-next-line
 import myImage from "../img/myImage.png";
 
 class About extends React.Component {

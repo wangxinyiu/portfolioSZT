@@ -21,7 +21,6 @@ class BackToTop extends React.Component {
     }
 
     render(){
-        // eslint-disable-next-line
         return <a href="#" className="back-to-top animated"><i className="fa fa-chevron-up"></i></a>;
     }
 }
