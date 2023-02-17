@@ -26,6 +26,7 @@ import Portfolio from './components/portfolio.jsx';
 import Contact from './components/contact.jsx';
 import BackToTop from './components/back-top.jsx';
 import Preloader from './components/preloader';
+import Photograph from './components/photograph';
 
 ReactDOM.render(
     <React.Fragment>
@@ -33,6 +34,7 @@ ReactDOM.render(
         <Intro />
         <About />
         <Portfolio />
+        <Photograph/>
         <Contact />
         <BackToTop />
         <Preloader />
