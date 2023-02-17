@@ -2,7 +2,7 @@
   "name": "portfolio",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://shloksomani.github.io/react-portfolio/",
+  "homepage": ".",
   "dependencies": {
     "bootstrap": "^4.3.1",
     "gh-pages": "^2.2.0",
@@ -12,10 +12,12 @@
     "popper.js": "^1.15.0",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
+    "react-router-dom": "^6.8.1",
     "react-scripts": "^3.3.0",
     "react-typed": "^1.1.2",
     "sass": "^1.58.1",
-    "typed.js": "^2.0.10"
+    "typed.js": "^2.0.10",
+    "yarn": "^1.22.19"
   },
   "scripts": {
     "predeploy": "npm run build",
